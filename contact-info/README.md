@@ -9,7 +9,7 @@
 ## Set Up 
 #### 
 
-## Setup/Installation Requirements
+## Setup/Installation Requirement
 * 
 * 
 * 
